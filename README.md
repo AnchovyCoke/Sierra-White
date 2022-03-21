@@ -3,6 +3,7 @@
 
 ## 프로젝트 소개 및 디테일
 [Sierra-White](https://tidal-daphne-7cf.notion.site/Sierra-White-f3becdd98dc94cc4a3be2c2e300312a0) 참고.
+
 ![title](https://user-images.githubusercontent.com/90170053/159237384-232dca32-5c0a-4b4c-ad7c-9c9e5ad46938.PNG)
 
 ## 목적
